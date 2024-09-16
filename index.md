@@ -6,7 +6,7 @@ title: Model theory of tame expansions of topological fields 2025
 
 
 
-  <body>
+
         <h1>Model theory of tame expansions of topological fields</h1>
         <p class="subtitle">INdAM intensive period</p>
         <h2>Napoli, 19 May&ndash;18 July 2025</h2>
