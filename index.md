@@ -4,6 +4,15 @@ title: Model theory of tame expansions of topological fields 2025
 ---
 
 # Main page
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Model theory of tame expansions of topological fields, 19 May – 18 July 2025</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+</head>
+  <body>
         <h1>Model theory of tame expansions of topological fields</h1>
         <p class="subtitle">INdAM intensive period</p>
         <h2>Napoli, 19 May&ndash;18 July 2025</h2>
