@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Model theory of tame expansions of topological fields 2025
-site-title: Conference Neaples 2025
+
 ---
 
 
