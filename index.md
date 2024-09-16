@@ -4,7 +4,7 @@ title: Model theory of tame expansions of topological fields 2025
 
 ---
 
-
+<body>
 
 
         <h1>Model theory of tame expansions of topological fields</h1>
@@ -43,3 +43,4 @@ title: Model theory of tame expansions of topological fields 2025
         </div>
 
         <footer><small>Photo by <a href="https://commons.wikimedia.org/wiki/User:Moroder">Wolfgang Moroder</a></small></footer>
+</body>
