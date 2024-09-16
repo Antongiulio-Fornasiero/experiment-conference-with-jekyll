@@ -3,7 +3,7 @@ layout: default
 title: Model theory of tame expansions of topological fields 2025
 ---
 
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
