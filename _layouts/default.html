@@ -39,7 +39,12 @@
         </ul>
         {% endif %}
       </header>
-      <header><p>here there should be the navigation bar</p></header>
+      <header>
+        <div class="navbar-container">
+        {% include navbar.html %}
+    </div>
+        
+      </header>
       <section>
 
       {{ content }}
