@@ -1,4 +1,128 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background:none transparent;
+}
+
+/* container for all the page except navigation bar*/
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+/* the navigation bar */
+nav {
+    position: sticky;
+    top: 0;
+    width: fit-content;
+    display: flex;
+    background-color: #333;
+    color: white;
+    padding: 1px 0;
+    font-size: 0.7em;
+    overflow-x: auto; /* add scrollbar if needed */
+    white-space: nowrap; /* stays on the same line */
+}
+
+
+nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.3em 0.4em;
+    text-decoration: none;
+
+    margin: 0 1px;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    background-color: #333;
+}
+
+/* the link to the present page should have the active class */
+nav  a.active {
+    background-color: red;
+    border-radius: 5px;
+}
+
+/* logos  at the bottom, before the footer */
+.logo-container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 20px;
+}
+.logo-container img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+.logo-container a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 6em;
+    height: 4em;
+    margin: 0 20px;
+}
+
+.subtitle {
+    font-style: italic;
+    color: #666;
+}
+
+/* table with a list of people*/
+table.listPeople {
+    text-align: left;
+}
+table.listPeople td:nth-child(2) {
+    font-style: italic;
+}
+
+/* paragraphs with hidden text, that can be expanded with a button */
+.expandable-paragraph {
+            margin-bottom: 20px;
+            border: 1px solid cornflowerblue;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .paragraph-header {
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+        .paragraph-summary {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .expand-btn {
+            background: none;
+            border: none;
+            font-size: 1.5em;
+            cursor: pointer;
+            padding: 5px;
+	    color: ForestGreen;
+        }
+	.expand-btn:hover {
+	    color: SpringGreen;
+	}
+        .expand-btn::after {
+            content: '\25BC';
+            display: inline-block;
+            /*transition: transform 0.2s;*/
+        }
+        .expand-btn.expanded::after {
+            transform: rotate(180deg);
+   	    color: red;
+        }
+        .paragraph-content {
+            display: none;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid deepskyblue;
+        }
