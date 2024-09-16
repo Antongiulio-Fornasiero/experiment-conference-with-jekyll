@@ -43,6 +43,6 @@ title: Model theory of tame expansions of topological fields 2025
                 <img src="https://www.matematica.unina.it/wp-content/uploads/elementor/thumbs/federicoII-q4zxtsfbuje9tuunx3uyz00h6xfggu0nhp94b3sw00.png" alt="UniNA logo">
             </a>
         </div>
-
+	<footer><small>Photo by <a href="https://commons.wikimedia.org/wiki/User:Moroder">Wolfgang Moroder</a></small></footer>
         
 </body>
