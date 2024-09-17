@@ -9,7 +9,7 @@ title: Model theory of tame expansions of topological fields 2025
 	<ul>
 {% for member in site.data.partecipants %}
   <li>
-	  {{ mamber.name }} <em>{{ member.affiliation }}</em>
+	  {{ member.name }} <em>{{ member.affiliation }}</em>
 
   </li>
 {% endfor %}
