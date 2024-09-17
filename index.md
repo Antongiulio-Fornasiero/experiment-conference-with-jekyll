@@ -4,19 +4,19 @@ title: Model theory of tame expansions of topological fields 2025
 
 ---
 <style>
-  .title-div{
+  .title-header{
 	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/2048px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg?20161218155608');
   background-size: cover;
   background-repeat: no-repeat;  
 }
 </style>
 <body>
-  <div class="title-div">
+  <header class="title-header">
         <h1>Model theory of tame expansions of topological fields</h1>
         <p class="subtitle">INdAM intensive period</p>
         <h2>Napoli, 19 May&ndash;18 July 2025</h2>
         <h3>INdAM Unit, Department of Mathematics and Applications "Renato Caccioppoli", University of Napoli Federico II</h3>
-  </div>
+  </header>
         <h2>Organization</h2>
 	<table class ="listPeople">
 	  <tr><td>Giuseppina Terzo</td><td>University of Neaples</td></tr>
