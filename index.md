@@ -4,14 +4,11 @@ title: Model theory of tame expansions of topological fields 2025
 
 ---
 <style>
-  .title-div{background-image:
-  linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.7)),
-  /*We use a transform (linear gradient, but with no actual gradient) to lighten the image*/
-  url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/2048px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg?20161218155608');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  .title-div{
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/2048px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg?20161218155608');
   background-size: cover;
-  }
+  background-repeat: no-repeat;  
+}
 </style>
 <body>
   <div class="title-div">
